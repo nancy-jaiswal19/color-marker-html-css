@@ -5,11 +5,6 @@
 
 ---
 
-## 🌈 Live Preview
-
-🚀 [Click here to view it live on GitHub Pages](https://nancy-jaiswal19.github.io/color-marker-html-css/)
-
----
 
 ## 🧠 What I Learned
 
